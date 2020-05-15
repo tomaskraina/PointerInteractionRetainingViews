@@ -1,3 +1,12 @@
+# PointerInteractionRetainingViews
+
+A demonstration for an issue where UIKit retains views after hovering over them with a pointer. This project is based on the exmaple code provided by Apple.
+
+See: [https://twitter.com/krajaac/status/1261285618547638272](https://twitter.com/krajaac/status/1261285618547638272)
+
+
+`Original README:`
+
 # Integrating Pointer Interactions into Your iPad App
 
 Support touch interactions in your iPad app by adding pointer interactions to your views.
