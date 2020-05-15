@@ -5,7 +5,7 @@ A demonstration for an issue where UIKit retains views after hovering over them 
 See: [https://twitter.com/krajaac/status/1261285618547638272](https://twitter.com/krajaac/status/1261285618547638272)
 
 
-`Original README:`
+Original README:
 
 # Integrating Pointer Interactions into Your iPad App
 
